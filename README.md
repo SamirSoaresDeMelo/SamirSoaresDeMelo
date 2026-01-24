@@ -60,7 +60,7 @@ Foco em Engenharia de Software e Banco de Dados, com projetos acadêmicos em Jav
 
 ## Projetos e Atividades
 
-- Beecrowd: mais de 130 problemas resolvidos em C/C++
+- Beecrowd: mais de 166 problemas resolvidos em C/C++
 - Participação no XXVIII Encontro Nacional de Modelagem Computacional (2025)
 - Cursos de Inglês – Idiomas sem Fronteiras (2025)
 
