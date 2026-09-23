@@ -1,6 +1,6 @@
 # Samir Soares de Melo
 
-Graduando em Sistemas de Informação (5º período) pela Unimontes, com foco em desenvolvimento de software, engenharia de software e bancos de dados. Atuo no desenvolvimento de sistemas web hospitalares utilizando Python, Django e PostgreSQL.
+Graduando em Sistemas de Informação (7º período) pela Unimontes, com foco em desenvolvimento de software, engenharia de software e bancos de dados. Atuo no desenvolvimento de sistemas web hospitalares utilizando Python, Django e PostgreSQL.
 
 📍 Montes Claros - MG
 
