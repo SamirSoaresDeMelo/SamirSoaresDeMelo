@@ -86,5 +86,5 @@ Foco em Engenharia de Software e Banco de Dados, com projetos acadêmicos em Jav
 ## Contato
 
 - samirsoaresdemelo@gmail.com  
-- LinkedIn: https://linkedin.com/in/samir-soares-de-melo  
+- LinkedIn: www.linkedin.com/in/samir-soares-de-melo-90b01631b
 - Beecrowd: https://www.beecrowd.com/profile/977559  
